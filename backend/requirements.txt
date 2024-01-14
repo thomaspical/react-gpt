@@ -1,0 +1,4 @@
+flask==2.0.1
+Flask-CORS==3.0.10
+werkzeug==2.0.1
+openai
